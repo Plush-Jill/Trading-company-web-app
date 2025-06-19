@@ -1,1 +1,0 @@
-# database-entity-service-lib
