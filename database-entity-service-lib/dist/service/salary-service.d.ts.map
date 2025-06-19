@@ -1,0 +1,1 @@
+{"version":3,"file":"salary-service.d.ts","sourceRoot":"","sources":["../../src/service/salary-service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,qBAAqB,CAAC;AAC7C,OAAO,EAAC,UAAU,EAAC,MAAM,SAAS,CAAC;AACnC,OAAO,EAAC,WAAW,EAAC,MAAM,oBAAoB,CAAC;AAG/C,qBACa,aAAc,SAAQ,WAAW,CAAC,MAAM,CAAC;gBACxC,UAAU,EAAE,UAAU;CAGnC"}

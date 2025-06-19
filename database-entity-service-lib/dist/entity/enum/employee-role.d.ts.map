@@ -1,0 +1,1 @@
+{"version":3,"file":"employee-role.d.ts","sourceRoot":"","sources":["../../../src/entity/enum/employee-role.ts"],"names":[],"mappings":"AAAA,oBAAY,YAAY;IACpB,KAAK,UAAU;IACf,KAAK,UAAU;IACf,KAAK,UAAU;IACf,KAAK,UAAU;IACf,KAAK,UAAU;CAClB;AAED,eAAO,MAAM,uBAAuB,kBAAkB,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"trading-point-hall-service.d.ts","sourceRoot":"","sources":["../../src/service/trading-point-hall-service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,iCAAiC,CAAC;AACnE,OAAO,EAAC,UAAU,EAAC,MAAM,SAAS,CAAC;AACnC,OAAO,EAAC,WAAW,EAAC,MAAM,oBAAoB,CAAC;AAG/C,qBACa,uBAAwB,SAAQ,WAAW,CAAC,gBAAgB,CAAC;gBAC5D,UAAU,EAAE,UAAU;CAGnC"}

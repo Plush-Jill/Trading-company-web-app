@@ -1,0 +1,1 @@
+{"version":3,"file":"product-request-service.d.ts","sourceRoot":"","sources":["../../src/service/product-request-service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,8BAA8B,CAAC;AAC9D,OAAO,EAAC,UAAU,EAAC,MAAM,SAAS,CAAC;AACnC,OAAO,EAAC,WAAW,EAAC,MAAM,oBAAoB,CAAC;AAI/C,qBACa,qBAAsB,SAAQ,WAAW,CAAC,cAAc,CAAC;gBACxD,UAAU,EAAE,UAAU;CAGnC"}

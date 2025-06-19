@@ -1,0 +1,42 @@
+{
+  "name": "db-migrations-service",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "run-ts": "node --import 'data:text/javascript,import { register } from \"node:module\"; import { pathToFileURL } from \"node:url\"; register(\"ts-node/esm\", pathToFileURL(\"./\"));' src/index.ts",
+    "migration:generate": "typeorm-ts-node-esm migration:generate -d configs/data-source.ts",
+    "migration:run": "typeorm-ts-node-esm migration:run -d configs/data-source.ts",
+    "migration:revert": "typeorm-ts-node-esm migration:revert -d configs/data-source.ts"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.9",
+    "@types/node": "^22.14.1",
+    "@types/pg": "^8.11.12",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "private": true,
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@hapi/hapi": "^21.4.0",
+    "database-entity-service-lib": "github:DB-sem-2-porject/database-entity-service-lib",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.14.1",
+    "typeorm": "^0.3.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DB-sem-2-porject/authentication-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DB-sem-2-porject/authentication-service/issues"
+  },
+  "homepage": "https://github.com/DB-sem-2-porject/authentication-service#readme",
+  "description": ""
+}

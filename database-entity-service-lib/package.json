@@ -1,0 +1,30 @@
+{
+  "name": "database-entity-service-lib",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@nestjs/graphql": "^13.1.0",
+    "@nestjs/typeorm": "^11.0.0",
+    "reflect-metadata": "^0.2.2",
+    "type-graphql": "^2.0.0-rc.2",
+    "typeorm": "^0.3.24"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}

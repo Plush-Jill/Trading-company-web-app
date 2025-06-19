@@ -1,0 +1,1 @@
+{"version":3,"file":"trading-point-service.d.ts","sourceRoot":"","sources":["../../src/service/trading-point-service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,4BAA4B,CAAC;AAC1D,OAAO,EAAC,UAAU,EAAC,MAAM,SAAS,CAAC;AACnC,OAAO,EAAC,WAAW,EAAC,MAAM,oBAAoB,CAAC;AAG/C,qBACa,mBAAoB,SAAQ,WAAW,CAAC,YAAY,CAAC;gBACpD,UAAU,EAAE,UAAU;CAGnC"}
